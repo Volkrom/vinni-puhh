@@ -1,0 +1,9 @@
+img {
+    width: 100%;
+  height: auto;
+  max-width: 400px;
+}
+div {
+    margin: 0 auto;
+    width: 300px;
+}
